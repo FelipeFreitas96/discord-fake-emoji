@@ -12,10 +12,7 @@
   "dependencies": {
     "@gumlet/gif-resize": "^1.1.1",
     "express": "^4.17.1",
-    "imagemagick": "^0.1.3",
     "jimp": "^0.16.1",
-    "request": "^2.88.2",
-    "resize-img": "^2.0.0",
-    "resize-optimize-images": "^1.1.2"
+    "request": "^2.88.2"
   }
 }
